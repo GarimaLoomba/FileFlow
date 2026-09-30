@@ -1,0 +1,15 @@
+# Compiled executable
+file-manager
+
+# Object files
+*.o
+
+# Build directories
+build/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
